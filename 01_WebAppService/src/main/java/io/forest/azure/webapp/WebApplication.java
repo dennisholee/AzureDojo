@@ -12,7 +12,7 @@ public class WebApplication extends Application {
 
 		Configuration configuration = SeBootstrap.Configuration.builder()
 				.host("0.0.0.0")
-				.port(9080)
+				.port(80)
 				.rootPath("")
 				.protocol("HTTP")
 				.build();
