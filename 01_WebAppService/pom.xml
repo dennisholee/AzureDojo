@@ -91,18 +91,6 @@
 						<webContainer>${azure.webContainer.properties}</webContainer>
 						<javaVersion>${azure.javaVersion.properties}</javaVersion>
 					</runtime>
-					<!--
-					<subscriptionId>80ea84e8-afce-4851-928a-9e2219724c69</subscriptionId>
-					<resourceGroup>1-47bc9d81-playground-sandbox</resourceGroup>
-					<appName>azuredojo-webapp</appName>
-					<pricingTier>B2</pricingTier>
-					<region>eastus</region>
-					<runtime>
-						<os>Linux</os>
-						<webContainer>Java SE</webContainer>
-						<javaVersion>Java 17</javaVersion>
-					</runtime>
-					-->
 					<deployment>
 						<resources>
 							<resource>
