@@ -1,0 +1,8 @@
+azure.subscriptionId.properties=
+azure.resourceGroup.properties=
+azure.appName.properties=
+azure.pricingTier.properties=
+azure.region.properties=
+azure.runtime.os.properties=
+azure.webContainer.properties=
+azure.javaVersion.properties=
